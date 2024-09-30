@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+ *{
+
+    font-family: "Open Sans", sans-serif;
+
+
+ }
+ .search-box{
+    width: 300px;
+    border: none;
+    height: 40PX;
+    
+    }
+
+
+.bgcolor{
+background-color: #062e88;
+}
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+   
+}
+
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+
+ 
+}
+.inpits::placeholder {
+    color: #3f66be; /* Change to whatever color you prefer */
+}
+/* navbar */
+.sammal-button{
+    margin-top: -620px;
+    margin-left: -80px;
+    border-radius: 0px 10px 0px 10px ;
+    background-color:  #56cb82;
+    border: none;
+    font-size: 12PX;
+    font-weight: 500;
+    
+    
+    }
+    .sammal-button-2{
+        margin-top: -620px;
+        margin-left: -230px;
+        border-radius: 0px 10px 0px 10px ;
+        background-color:  #e85b40;
+        border: none;
+        font-size: 12PX;
+        font-weight: 500;
+    
+    }
+
+
+
+/* FOOTER */
+
+
+.logos{
+color: #15a9e7;   
+}
+.logos:hover{
+color: #07035a;
+}
+
+.button{
+    margin-left:-92px;
+}
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+   
+}
+
+.faq-section {
+    margin-top: 30px;
+}
+
+details {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 2px;
+    background-color: #f1f1f1;
+}
+
+summary {
+    font-weight:;
+    cursor: pointer;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px;
+}
+
+summary .icon {
+    font-size: 1.0rem;
+    font-weight: bold;
+}
+
+details[open] summary .icon {
+    transform: rotate(45deg);
+}
+
+details p {
+    margin: 10px 0;
+}
+/*  */
+/* styles.css */
+
+.respnsiv{
+    background-color: #343a40; /* Adjust background color as needed */
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+ 
+}
+
+.search-box {
+    padding-left: 2px; /* Adjust padding to match the placeholder spacing */
+}
+
+.button {
+    white-space: nowrap;
+}
+.margin{
+margin-bottom: 700px;
+margin-left: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* styles.css */
+
+body {
+    background-color: #f8f9fa; /* Adjust background color as needed */
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 20px;
+    padding: 0.5rem 2rem;
+}

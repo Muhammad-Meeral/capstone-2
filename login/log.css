@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+.
+ *{
+
+    font-family: "Open Sans", sans-serif;
+background-color:black;
+
+ }
+ .search-box{
+    width: 300px;
+    border: none;
+    height: 40PX;
+    
+    }
+
+
+.bgcolor{
+background-color: #062e88;
+}
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+   
+}
+
+
+.inpits{
+    border: none; 
+    outline: none; 
+    background: none; 
+
+ 
+}
+.inpits::placeholder {
+    color: #3f66be; /* Change to whatever color you prefer */
+}
+/* navbar */
+
+
+
+
+
+
+
+
+
+.text-clor{
+color: #6c99ff;
+white-space: pre-line;
+font-size: 14px ;
+font-style: normal;
+font-weight: 400px;
+line-height: px;
+
+}
+
+
+
+
+
+.bahnsjhan {
+background-color: #15a9e7;
+border: none;
+
+}
+.fst-radio{
+font-size: 22px;
+margin-left: 600px;
+}
+.scnt-radio{
+margin-right:680px ;
+font-size: 22px;
+
+}
+.fst-radio:hover{
+cursor: pointer;
+
+}
+
+
+
+
+
+
+.perawili{
+width:500% ;
+height: ;
+
+
+
+}
+
+
+.readmore {
+    text-align: center;
+}
+.latest-posts .card {
+    margin-bottom: 20px;
+}
+.latest-posts .card img {
+    height: 200px;
+    object-fit: cover;
+
+
+
+/* FOOTER */
+
+
+
+}
+.logos{
+color: #15a9e7;   
+}
+.logos:hover{
+color: #07035a;
+}
+
+.button{
+    margin-left:-92px;
+}
+.divtwo{
+
+    background-color: #062E87;
+    }
+    /* hith */
+    /* styles.css */
